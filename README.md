@@ -73,7 +73,7 @@ To compile and run the C++ programs, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/ahmedelbahri/cpp-modules.git
+    git clone https://github.com/ahmedelbahri/cpp_modules.git
     cd cpp-modules
     ```
 
